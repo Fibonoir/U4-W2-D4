@@ -1,0 +1,1 @@
+Caffè@Alimentari@3.5#Latte@Alimentari@1.5#Pane@Alimentari@2.0#Pasta@Alimentari@1.0#Olio@Alimentari@5.0#Detersivo@Casa@3.0#Shampoo@Casa@2.5#Balsamo@Casa@2.5#Sapone@Casa@1.0#Dentifricio@Casa@2.0#Caffè@Alimentari@5.0
